@@ -1,0 +1,1 @@
+void single_test(double *x , int n);
